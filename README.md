@@ -7,48 +7,23 @@ I am currently pursuing a **Bachelor of Business Administration (BBA)** at **Ami
 I enjoy solving business problems using data and transforming raw datasets into meaningful insights through SQL, Excel, and dashboards. I am currently expanding my skills in Python and Power BI while building real-world analytics projects.
 
 ---
+Technical Skills
 
-## 🚀 Technical Skills
-
-### Programming & Databases
-- SQL (MySQL)
-- Python (Learning)
-
-### Data Analytics
-- Microsoft Excel
-- Data Cleaning
-- Data Analysis
-- Dashboard Development
-- Business Analytics
-
-### Excel
-- Pivot Tables
-- Pivot Charts
-- XLOOKUP
-- VLOOKUP
-- INDEX-MATCH
-- Conditional Formatting
-- Data Validation
-
-### SQL
-- Joins
-- CTEs
-- Window Functions
-- Aggregate Functions
-- Subqueries
-- GROUP BY
-- HAVING
-- Views
-
-### Tools
-- MySQL Workbench
-- Microsoft Excel
-- GitHub
-- Power BI (Learning)
-- Microsoft PowerPoint
+SQL: Joins, CTEs, Subqueries, Window Functions, Aggregations
+Excel: Pivot Tables, XLOOKUP, VLOOKUP, Data Cleaning, Dashboards
+Python: Python Fundamentals, NumPy, Statistical Operations
+Tools: MySQL, Excel, GitHub
 
 ---
+### Currently Learning
 
+- Python for Data Analysis
+- NumPy
+- Statistical Operations
+- Pandas
+- Data Visualization
+
+  
 ## 📂 Featured Projects
 
 - 🍽️ Swiggy Restaurant Data Analysis (SQL)
