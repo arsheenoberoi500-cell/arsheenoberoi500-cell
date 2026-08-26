@@ -21,7 +21,7 @@ Featured Projects
 🎬 IMDb Movie Analysis
 🍽️ Zomato SQL Analysis
 
-Connect
+Connect with me
 
 LinkedIn www.linkedin.com/in/arsheen-oberoi-a6a5222a6
 Email: arsheenoberoi500@gamil.com
